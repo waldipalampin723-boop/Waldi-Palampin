@@ -1,0 +1,6 @@
+{
+  "name": "GuruPro",
+  "description": "Asisten administrasi digital terlengkap untuk guru: profil, presensi harian, nilai siswa, jurnal mengajar, dan arsip dokumen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
